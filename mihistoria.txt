@@ -1,3 +1,5 @@
 ¡Hola! Me llamo Isaac Salirrosas.
 Soy de Trujillo, Perú y tengo 20 años. Viví la mitad de mi vida en Lima, Perú.
 Soy un entusiasta estudiante de Platzi y actualmente estoy llevando la Escuela de Desarrollo Web.
+
+A futuro cercano, planeo postular a alguna empresa de desarrollo web como Frontend Dev.
