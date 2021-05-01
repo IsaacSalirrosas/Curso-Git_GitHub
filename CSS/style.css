@@ -5,7 +5,7 @@
 }
 html {
     font-size: 62.5%;
-    font-family:'Courier New', Courier, monospace;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 body {
     width: 75%;
@@ -32,6 +32,7 @@ body {
     border: 0.1rem solid gray;
     border-radius: 0 0 0.5rem 0.5rem;
     padding: 4rem 2rem;
+    color: rgb(38, 38, 38);
 }
 .main-container h1 {
     font-size: 3.6rem;
