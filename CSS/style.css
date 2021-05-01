@@ -1,23 +1,14 @@
-html {
+* {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
     font-size: 62.5%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 body {
-    color: cadetblue;
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-}
-.container {
     width: 75%;
-    padding: 0.5rem;
-    text-align: left;
-    border: 1px solid gray;
+    font-size: 1.6rem;    
     margin: 0 auto;
-}
-.title {
-    font-size: 2.4rem;
-}
-.container p {
-    color: gray;
-    font-size: 1.6rem;
 }
