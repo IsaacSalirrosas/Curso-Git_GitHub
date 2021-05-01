@@ -1,11 +1,21 @@
-html {
+* {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
     font-size: 62.5%;
 }
 body {
     color: cadetblue;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+}
+.header {
+    font-size: 3.0rem;
+}
+header {
+    margin: 2rem;
 }
 .container {
     width: 75%;
