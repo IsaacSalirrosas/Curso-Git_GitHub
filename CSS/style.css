@@ -5,29 +5,38 @@
 }
 html {
     font-size: 62.5%;
+    font-family:'Courier New', Courier, monospace;
 }
 body {
-    color: cadetblue;
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-}
-.header {
-    font-size: 3.0rem;
-}
-header {
-    margin: 2rem;
-}
-.container {
     width: 75%;
-    padding: 0.5rem;
-    text-align: left;
-    border: 1px solid gray;
+    font-size: 1.6rem;    
     margin: 0 auto;
 }
-.title {
-    font-size: 2.4rem;
+.header {
+    padding: 1.5rem;
+    background-color: cadetblue;
+    box-shadow: 0 0.2rem 2rem 0 gray;
+    color: white;
+    border-radius: 0.5rem 0;
+    margin: auto 0;
 }
-.container p {
-    color: gray;
-    font-size: 1.6rem;
+.header__title {
+    font-weight: bold;
+    font-size: 3.6rem;    
+}
+.header__sub-title {
+    font-size: 2.2rem;
+    padding-left: 1rem;
+}
+.main-container {
+    border: 0.1rem solid gray;
+    border-radius: 0 0 0.5rem 0.5rem;
+    padding: 4rem 2rem;
+}
+.main-container h1 {
+    font-size: 3.6rem;
+    margin-bottom: 1.5rem;
+}
+.main-container p {
+    font-size: 1.8rem;
 }
