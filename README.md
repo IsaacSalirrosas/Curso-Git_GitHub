@@ -1,2 +1,2 @@
-# Platzi-practice-projects
-Proyectos de prueba mientras estudio en Platzi
+# Curso-Git_GitHub
+Proyecto de prueba mientras estudio el curso de Git y GitHub en Platzi 
